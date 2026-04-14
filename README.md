@@ -1,5 +1,4 @@
 # 💫 About Me:
-Hi, I am Adishree. A full-stack developer with Rust backend. I have a strong foundation in DSA as well.
 
 
 ## 🌐 Socials:
